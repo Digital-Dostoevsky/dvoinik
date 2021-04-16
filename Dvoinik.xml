@@ -1308,5 +1308,58 @@ direct="true">ты, Яша, поселись у меня на время или 
 </div2>
 </div1>
       </body>
+			<back>
+				<div type="editorial">
+<listPerson type="fictional">
+	<person xml:id="gol" sex="male">
+		<persName>Яков Петрович Голядкин</persName>
+	</person>
+	<person xml:id="pet" sex="male">
+		<persName>Петруша</persName>
+	</person>
+	<person xml:id="rut" sex="male">
+		<persName>Крестьян Иванович Рутеншпиц</persName>
+	</person>
+	<person xml:id="vs" sex="male">
+		<persName>Владимир Семенович</persName>
+	</person>
+	<person xml:id="af" sex="male">
+		<persName>Андрей Филиппович</persName>
+	</person>
+	<person xml:id="oi" sex="male">
+		<persName>Олсуфий Иванович Берендеев</persName>
+	</person>
+	<person xml:id="ko" sex="female">
+		<persName>Клара Олсуфьевна Берендеева</persName>
+	</person>
+	<person xml:id="aa" sex="male">
+		<persName>Антон Антонович Сеточкин</persName>
+	</person>
+	<person xml:id="ni" sex="male">
+		<persName>Нестор Игнатьевич Вахрамеев</persName>
+	</person>
+	<person xml:id="eg" sex="male">
+		<persName>Емельян Герасимович</persName>
+	</person>
+	<person xml:id="is" sex="male">
+		<persName>Иван Семенович</persName>
+	</person>
+	<person xml:id="ale" sex="male">
+		<persName>Алексеич</persName>
+	</person>
+	<person xml:id="ki" sex="female">
+		<persName>Каролина Ивановна</persName>
+	</person>
+	<person xml:id="dbl" sex="male">
+		<persName>Двойник</persName>
+	</person>
+</listPerson>
+<listPerson type="historical">
+<person xml:id="asp" sex="male">
+	<persName>Александр Сергеевич Пушкин</persName>
+</person>
+</listPerson>
+				</div>
+			</back>
   </text>
 </TEI>
