@@ -123,8 +123,8 @@
 				<change when="2021-05-19" who="#BB">[markup]:edited spaces and dashes in chs. 8-10</change>
 				<change when="2021-05-20" who="#KB">[markup]:converted dbl and gol person tags to personGrp tags; converted several name tags; added listPlace to base</change>
 				<change when="2021-05-21" who="#KH">[markup]:added a couple of place names in ch. 1, 2, 3.</change>
-				<change when="2021-05-25" who="#KH">[markup]: added place names in ch. 1-4 and some more persongroup names for Golyadkin</change>
 				<change when="2021-05-24" who="#BB">[markup]:added other names for the double in chs. 8,9,10 to the persGrp for #dbl</change>
+				<change when="2021-05-25" who="#KH">[markup]: added place names in ch. 1-4 and some more persongroup names for Golyadkin</change>
 				</revisionDesc>
   </teiHeader>
   <text>
@@ -1646,7 +1646,6 @@ who="#gol" direct="true">«Ну, да это гости»</said>, — мельк
 		<persName>наш герой</persName>
 		<persName>Яков Петрович</persName>
 		<persName>Голядкин</persName>
-		<persName>Господин Голядкин</persName>
 		<persName>Господин Голядкин-старший</persName>
 		<persName>Я. Голядкин</persName>
 		<persName>Фоблаз</persName>
