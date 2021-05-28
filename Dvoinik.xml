@@ -131,6 +131,7 @@
 				<change when="2021-05-27" who="#KB">[markup]:added place names in ch. 5-7; marked all instances of наш герой in ch. 5-7 as gol personGrp; added name variations from ch. 5-7 to personGrp gol and personGrp dbl; cleaned up ch. 5-7</change>
 				<change when="2021-05-27" who="#EV">[markup]:added place names in ch.11; marked all instances of наш герой in ch. 11 as gol personGrp; added name variations from ch. 11 to personGrp dbl;</change>
 				<change when="2021-05-28" who="#EV">[markup]:added place names in ch.11-13; marked all instances of наш герой in ch. 11-13 as gol personGrp; added name variations from ch. 11-13 to personGrp dbl</change>
+				<change when="2021-05-28" who="#BB">[markup]:added names for the double, tagged petersburg places</change>
 				</revisionDesc>
   </teiHeader>
   <text>
