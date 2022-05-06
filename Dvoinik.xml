@@ -2041,7 +2041,7 @@ who="#gol" direct="true">«Ну, да это гости»</said>, — мельк
 	<personGrp xml:id="kup" sex="male">
 <persName>купец</persName>
 	</personGrp>
-	<person xml:id="por">
+	<person xml:id="por" sex="male">
 		<persName>поручик</persName>
 	</person>
 	<person xml:id="pol" sex="male">
@@ -2116,10 +2116,10 @@ who="#gol" direct="true">«Ну, да это гости»</said>, — мельк
 </listPerson>
 
 <listPerson type="fictionalnonDostoevsky">
-	<person xml:id="mar">
+	<person xml:id="mar" sex="male">
 		<persName>Марцимирис</persName>
 	</person>
-	<person xml:id="mlu">
+	<person xml:id="mlu" sex="female">
 		<persName>маркграфиня Луиза</persName>
 	</person><person xml:id="fbl" sex="male">
 		<persName>Фоблаз, персонаж из 'Любовных похождений кавалера де Фобласа' Ж.Б. Луве де Кувре</persName>
