@@ -184,6 +184,7 @@
 				<change when="2021-11-06" who="#EV">[markup]:cleaned up names in chs. 11-13</change>
 				<change when="2021-11-17" who="#KB">[markup]:replaced misspelled diminiutive subtypes with diminutive subtypes</change>
 				<change when="2021-12-15" who="#KB">[markup]:cleaned up seg tags</change>
+				<change when="2022-05-05" who="#KB">[markup]:cleaned up IDs, fixed typos</change>
 			</revisionDesc>
   </teiHeader>
   <text>
