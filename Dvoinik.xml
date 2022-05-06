@@ -1990,7 +1990,7 @@ who="#gol" direct="true">«Ну, да это гости»</said>, — мельк
 		<persName>Андрей Филиппович</persName>
 	</person>
 	<person xml:id="imaf" sex="male">
-		<persName> imagined Андрей Филиппович</persName>
+		<persName>imagined Андрей Филиппович</persName>
 	</person>
 	<person xml:id="oi" sex="male">
 		<persName>Олсуфий Иванович Берендеев</persName>
