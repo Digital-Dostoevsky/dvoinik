@@ -14,7 +14,6 @@
 						<name xml:id="KB">Katherine Bowers</name>
 					<name xml:id="BB">Braxton Boyer</name>
 				<name xml:id="EV">Elena Vasileva</name>
-			<name xml:id="MC">Marcin Cieszkiel</name>
 </respStmt>
 <principal>Kate Holland</principal>
 <funder>Social Sciences and Humanities Research Council of Canada</funder>
@@ -84,7 +83,7 @@
 				<change when="2021-04-06" who="#BB">[markup]:speech marking of chapter 9</change>
 				<change when="2021-04-06" who="#EV">[markup]:speech marking of chapters 11, 12, 13</change>
 				<change when="2021-04-07" who="#KH">[markup]:speech marking of chapters 2 and 3</change>
-				<change when="2021-04-07" who="KH">[markup]:clean up of tags in chpts 3 and 4</change>
+				<change when="2021-04-07" who="#KH">[markup]:clean up of tags in chpts 3 and 4</change>
 				<change when="2021-04-07" who="#EV">[markup]:speech marking of chapter 13</change>
 				<change when="2021-04-08" who="#BB">[markup]:speech marking of chapter 10</change>
 				<change when="2021-04-16" who="#KB">[markup]:person names added</change>
@@ -186,7 +185,7 @@
 				<change when="2021-12-15" who="#KB">[markup]:cleaned up seg tags</change>
 				<change when="2022-05-05" who="#KB">[markup]:cleaned up IDs, fixed typos</change>
 				<change when="2022-05-13" who="#KB">[markup]:added writing tags to all letters in the text, changed Klara Olsufyevna's letter signature from #ko to #imko</change>
-				<change when="2022-05-16" who="#KB">[markup]:changed old name tags to persName and personGrp</change>
+				<change when="2022-05-16" who="#KB">[markup]:changed remnant old name tags to persName and personGrp</change>
 			</revisionDesc>
   </teiHeader>
   <text>
