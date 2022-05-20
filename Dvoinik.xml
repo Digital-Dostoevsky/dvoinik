@@ -101,7 +101,7 @@
 				<change when="2021-04-29" who="#BB">[markup]:addresser addressee of ch. 10; person names added</change>
 				<change when="2021-05-03" who="#KH">[markup]: added character names for chs 1 and 2</change>
 				<change when="2021-05-03" who="#EV">[markup]: added character names for chs 11 and 12; person name added</change>
-				<change when="2021-05-04" who="#KH">[marchup]: added character names for chs 2 and 3; corrected tagging errors</change>
+				<change when="2021-05-04" who="#KH">[markup]: added character names for chs 2 and 3; corrected tagging errors</change>
 				<change when="2021-05-04" who="#BB">[markup]:added character names for ch 8</change>
 				<change when="2021-05-05" who="#KH">[markup]: added character names for ch 3 and 4</change>
 				<change when="2021-05-05" who="#KB">[markup]: added character names for chs 5-7, added several historical person xml ids</change>
